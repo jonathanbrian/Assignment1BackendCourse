@@ -8,5 +8,15 @@ namespace Assignment1BackendCourse
 {
     internal class Ranger
     {
+        /*Ranger attribute gain
+        *A Ranger begins at level 1 with
+        *Strength: 1
+        *Dexterity: 7
+        *Intelligence: 1
+        *Every time a Ranger levels up, they gain
+        *Strength: 1
+        *Dexterity: 5
+        *Intelligence: 1
+        */
     }
 }
