@@ -18,5 +18,7 @@ namespace RPG_Heroes.Items
          * an armor type, armor has attributes which provide bonuses to a heroes attributes when equipped. This field is of type
          * HeroAttribute and should be called ArmorAttribute.
          */
+
+        public enum ArmorType { Cloth, Leather, Mail, Plate}
     }
 }
