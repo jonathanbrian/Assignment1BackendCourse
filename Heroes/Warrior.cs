@@ -1,5 +1,4 @@
-﻿using Assignment1BackendCourse;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,6 +17,8 @@ namespace RPG_Heroes.Heroes
         *Strength: 3
         *Dexterity: 2
         *Intelligence: 1
+        *
+        *Weapon types permitted to equip: Axe, Hammer, Sword
         */
     }
 }

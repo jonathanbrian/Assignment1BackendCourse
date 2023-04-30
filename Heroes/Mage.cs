@@ -1,5 +1,4 @@
-﻿using Assignment1BackendCourse;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,6 +17,8 @@ namespace RPG_Heroes.Heroes
         *Strength: 1
         *Dexterity: 1
         *Intelligence: 5
+        *
+        *Weapon types permitted to equip: Staff, Wand
         */
     }
 }
