@@ -21,6 +21,12 @@ namespace RPG_Heroes.Heroes
         *Weapon types permitted to equip: Staff, Wand
         *
         *Armor types permitted to equip: Cloth
+        *
+        *
+        *
+        *Weapon mage1 = Weapon.WeaponType;
+        *if (mage1 == WeaponType.Bow)
+        *{InvalidWeaponException}
         */
     }
 }
