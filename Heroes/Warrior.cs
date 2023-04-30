@@ -19,6 +19,8 @@ namespace RPG_Heroes.Heroes
         *Intelligence: 1
         *
         *Weapon types permitted to equip: Axe, Hammer, Sword
+        *
+        *Armor types permitted to equip: Mail, Plate
         */
     }
 }

@@ -19,6 +19,8 @@ namespace RPG_Heroes.Heroes
         *Intelligence: 5
         *
         *Weapon types permitted to equip: Staff, Wand
+        *
+        *Armor types permitted to equip: Cloth
         */
     }
 }
