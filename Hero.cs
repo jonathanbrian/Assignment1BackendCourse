@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment1BackendCourse
+namespace RPG_Heroes
 {
     public abstract class Hero
     {
@@ -39,7 +39,7 @@ namespace Assignment1BackendCourse
         //public shared fields
 
         public string Name { get; set; }
-        public int Level { get; set; }
+        public int Level { get; set; } //should be set here that it is 1 - how to do this?
         public int LevelAttributes { get; set; }
         public string ValidWeaponTypes { get; set; } //probably not a string, but a list or enum - check this later
         public string ArmorTypes { get; set; } //probably not a string, but a list or enum - check this later
@@ -47,13 +47,13 @@ namespace Assignment1BackendCourse
 
         //public facing methods: 
 
-        public void Constructor () { }
-        public void LevelUp () { }
-        public void Equip () { }
-        public void Damage () { }
-        public void TotalAttributes () { }
-        public void Display () { }
-        
+        public void Constructor() { }
+        public void LevelUp() { }
+        public void Equip() { }
+        public void Damage() { }
+        public void TotalAttributes() { }
+        public void Display() { }
+
 
     }
 }

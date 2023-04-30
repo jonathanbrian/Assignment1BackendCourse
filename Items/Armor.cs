@@ -16,7 +16,7 @@ namespace RPG_Heroes.Items
          * • Plate
          * You should encapsulate these types in a ArmorType enumerator and compose that into the armor class. In addition to
          * an armor type, armor has attributes which provide bonuses to a heroes attributes when equipped. This field is of type
-         * HeroAttribute and should be called ArmorAttribute.
+         * HeroAttribute and should be called ArmorAttribute. --> added to HeroAttribute calss, but not sure that is correct
          */
 
         public enum ArmorType { Cloth, Leather, Mail, Plate}
