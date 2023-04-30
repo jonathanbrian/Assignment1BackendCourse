@@ -21,5 +21,15 @@ namespace RPG_Heroes.Items
          * • Body
          * • Legs
          */
+
+        public string Name { get; set; }
+        public int RequiredLevel { get; set; }
+        public enum Slot
+        {
+            Weapon,
+            Head,
+            Body,
+            Legs
+        } //comes from enumerator - not sure if string then is correct
     }
 }
