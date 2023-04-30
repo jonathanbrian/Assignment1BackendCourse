@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elisa\\Documents\\Kurs\\BackendUtviklingKurs\\Assignment 1\\Assignment1BackendCourse\\Assignment1BackendCourse\\Assignment1BackendCourse.csproj",
-      "projectName": "Assignment1BackendCourse",
-      "projectPath": "C:\\Users\\elisa\\Documents\\Kurs\\BackendUtviklingKurs\\Assignment 1\\Assignment1BackendCourse\\Assignment1BackendCourse\\Assignment1BackendCourse.csproj",
+      "projectUniqueName": "C:\\Users\\elisa\\Documents\\Kurs\\BackendUtviklingKurs\\Assignment 1\\Assignment1BackendCourse\\Assignment1BackendCourse\\RPG Heroes.csproj",
+      "projectName": "RPG Heroes",
+      "projectPath": "C:\\Users\\elisa\\Documents\\Kurs\\BackendUtviklingKurs\\Assignment 1\\Assignment1BackendCourse\\Assignment1BackendCourse\\RPG Heroes.csproj",
       "packagesPath": "C:\\Users\\elisa\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\elisa\\Documents\\Kurs\\BackendUtviklingKurs\\Assignment 1\\Assignment1BackendCourse\\Assignment1BackendCourse\\obj\\",
       "projectStyle": "PackageReference",
