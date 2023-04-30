@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment1BackendCourse
+namespace RPG_Heroes.Heroes
 {
     internal class Rogue
     {
