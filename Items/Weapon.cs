@@ -21,5 +21,7 @@ namespace RPG_Heroes.Items
          * to a weapon type, weapons deal damage. This is represented as a WeaponDamage field.
          * NOTE: When a weapon is created, it is automatically given the Slot of Weapon.
          */
+        public enum WeaponType { Axes, Bows, Daggers, Hammers, Staffs, Swords, Wands}
+        public int WeaponDamage { get; set; }
     }
 }
