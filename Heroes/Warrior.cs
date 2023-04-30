@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Assignment1BackendCourse;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace RPG_Heroes.Heroes
 {
-    internal class Warrior
+    public class Warrior : Hero
     {
         /*Warrior attribute gain
         *A Warrior begins at level 1 with
