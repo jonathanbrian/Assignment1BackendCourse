@@ -15,6 +15,10 @@ namespace Assignment1BackendCourse
         *OR increase the one instance by a specified amount. 
         *Which to use is up to you on what best suits your solution.
         *NOTE: This class is used as the datatype for both LevelAttributes.
+        *
+        *From Armor class: 
+        *In addition to an armor type, armor has attributes which provide bonuses to a heroes attributes when equipped. 
+        *This field is of type HeroAttribute and should be called ArmorAttribute.
         */
     }
 }
