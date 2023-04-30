@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assignment1BackendCourse
 {
-    internal class Hero
+    public abstract class Hero
     {
         //Share attributes for all heroes:
         //Name
@@ -36,5 +36,24 @@ namespace Assignment1BackendCourse
          */
 
 
-}
+        //public shared fields
+
+        public string Name { get; set; }
+        public int Level { get; set; }
+        public int LevelAttributes { get; set; }
+        public string ValidWeaponTypes { get; set; } //probably not a string, but a list or enum - check this later
+        public string ArmorTypes { get; set; } //probably not a string, but a list or enum - check this later
+
+
+        //public facing methods: 
+
+        public void Constructor () { }
+        public void LevelUp () { }
+        public void Equip () { }
+        public void Damage () { }
+        public void TotalAttributes () { }
+        public void Display () { }
+        
+
+    }
 }
